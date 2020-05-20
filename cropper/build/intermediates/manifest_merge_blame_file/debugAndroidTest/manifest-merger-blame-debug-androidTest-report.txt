@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.theartofdev.edmodo.cropper.test" >
+4
+5    <uses-sdk
+5-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:11:5-15:85
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:13:22-53
+13        android:label="Tests for com.theartofdev.edmodo.cropper.test"
+13-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:15:22-83
+14        android:targetPackage="com.theartofdev.edmodo.cropper.test" />
+14-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:12:22-81
+15
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-80
+16-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+17-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-78
+18
+19    <application
+19-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:7:5-9:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/adesh/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true" >
+21-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:7:18-43
+22        <uses-library android:name="android.test.runner" />
+22-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:8:9-60
+22-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5570982442729998319.xml:8:23-57
+23
+24        <activity
+24-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-18:50
+25            android:name="com.theartofdev.edmodo.cropper.SelectedImageActivity"
+25-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-80
+26            android:screenOrientation="portrait"
+26-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-49
+27            android:theme="@style/MyCropTheme" />
+27-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-47
+28        <activity
+28-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-22:50
+29            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+29-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-76
+30            android:screenOrientation="portrait"
+30-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-49
+31            android:theme="@style/MyCropTheme" />
+31-->[__tested_artifact__::cropper] /home/adesh/AndroidStudioProjects/TestLibrary/cropper/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+32    </application>
+33
+34</manifest>

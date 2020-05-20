@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="MyCropTheme" parent="@style/Theme.AppCompat.Light">
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="titleTextColor">#212121</item>
+        <item name="actionMenuTextColor">#212121</item>
+        <item name="colorPrimaryDark">#FFFFFF</item>
+        <item name="android:textColorPrimary">#212121</item>
+        <item name="android:itemBackground">#FFFFFF</item>
+
+    </style>
+</resources>

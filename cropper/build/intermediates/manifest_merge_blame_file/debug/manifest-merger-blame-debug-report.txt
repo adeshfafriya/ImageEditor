@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.theartofdev.edmodo.cropper"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:3:5-80
+11-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:3:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:4:5-81
+12-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:4:22-78
+13
+14    <application>
+14-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:5:5-14:19
+15        <activity
+15-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:6:9-9:51
+16            android:name="com.theartofdev.edmodo.cropper.SelectedImageActivity"
+16-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:7:13-80
+17            android:screenOrientation="portrait"
+17-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:9:13-49
+18            android:theme="@style/MyCropTheme" />
+18-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:8:13-47
+19        <activity
+19-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:10:9-13:51
+20            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+20-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:11:13-76
+21            android:screenOrientation="portrait"
+21-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:13:13-49
+22            android:theme="@style/MyCropTheme" />
+22-->/home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:12:13-47
+23    </application>
+24
+25</manifest>

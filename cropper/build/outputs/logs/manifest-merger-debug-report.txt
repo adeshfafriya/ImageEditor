@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:11-51
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:1:1-15:12
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:2:5-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:3:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:4:22-78
+application
+ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:5:5-14:19
+activity#com.theartofdev.edmodo.cropper.SelectedImageActivity
+ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:6:9-9:51
+	android:screenOrientation
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:9:13-49
+	android:theme
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:8:13-47
+	android:name
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:7:13-80
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:10:9-13:51
+	android:screenOrientation
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:13:13-49
+	android:theme
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:12:13-47
+	android:name
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml:11:13-76
+uses-sdk
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		ADDED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
+		INJECTED from /home/adesh/AndroidStudioProjects/TestLibrary/cropper/src/main/AndroidManifest.xml
